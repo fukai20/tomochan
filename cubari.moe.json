@@ -4,7 +4,7 @@
 	"artist": "Fumita Yanagida",
 	"author": "Fumita Yanagida",
 	"cover": "https://cdn.myanimelist.net/images/manga/3/169710l.webp",
-	"chapters": 
+	"chapters":
 	{
 		"1":
 		{
@@ -245,6 +245,16 @@
 				"fukai20": "/proxy/api/imgur/chapter/Om8nH23/"
 			},
 			"last_updated": "1619305262"
-		}		
-	}	
+		},
+		"25":
+		{
+			"title": "Surefire method",
+			"volume": "1",
+			"groups":
+			{
+				"fukai20": "/proxy/api/imgur/chapter/Nf83fdq/"
+			},
+			"last_updated": "1619383907"
+		}
+	}
 }
