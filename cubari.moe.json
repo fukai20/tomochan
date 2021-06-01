@@ -598,7 +598,7 @@
 		},
 		"57":
 		{
-			"title": "Skirt Araund The Technicalities",
+			"title": "Skirt Around The Technicalities",
 			"volume": "1",
 			"groups":
 			{
@@ -615,6 +615,16 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/hv5jZ4a/"
 			},
 			"last_updated": "1622495457"
+		},
+		"59":
+		{
+			"title": "Always Wanted To Try",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/G8JdOef/"
+			},
+			"last_updated": "1622589463"
 		}
 	}
 }
