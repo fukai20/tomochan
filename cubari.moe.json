@@ -835,6 +835,16 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/yuILiho/"
 			},
 			"last_updated": "1624393484"
+		},
+		"81":
+		{
+			"title": "Reset Period",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/2ykWaLt/"
+			},
+			"last_updated": "1624480919"
 		}
 	}
 }
