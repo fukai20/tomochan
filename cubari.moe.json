@@ -656,6 +656,16 @@
 			},
 			"last_updated": "1622843623"
 		},
+		"62.5":
+		{
+			"title": "Assault",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/Z9HYjC2/"
+			},
+			"last_updated": "1624740906"
+		},
 		"63":
 		{
 			"title": "On The Bus Home",
@@ -855,6 +865,16 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/ngzMcrO/"
 			},
 			"last_updated": "1624565801"
+		},
+		"82.5":
+		{
+			"title": "A Sporty Grey One",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/ICAx9Fb/"
+			},
+			"last_updated": "1624654186"
 		}
 	}
 }
