@@ -905,6 +905,16 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/GalZwRh/"
 			},
 			"last_updated": "1624999081"
+		},
+		"86":
+		{
+			"title": "Next Thing You Know",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/Math.floor(new Date().getTime()/1000)/"
+			},
+			"last_updated": "1625091772"
 		}
 	}
 }
