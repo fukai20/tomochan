@@ -945,6 +945,26 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/kdAOJJ3/"
 			},
 			"last_updated": "1625353154"
+		},
+		"90":
+		{
+			"title": "At Fixed Intervals",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/jx4cTZG/"
+			},
+			"last_updated": "1625421154"
+		},
+		"91":
+		{
+			"title": "Wanted To Say It Too",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/aO2AMHU/"
+			},
+			"last_updated": "1625523595"
 		}
 	}
 }
