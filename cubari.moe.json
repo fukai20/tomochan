@@ -1086,7 +1086,7 @@
 			},
 			"last_updated": "1626555247"
 		},
-"104":
+		"104":
 		{
 			"title": "At The Starting Line",
 			"volume": "1",
@@ -1096,7 +1096,7 @@
 			},
 			"last_updated": "1626641807"
 		},
-"105":
+		"105":
 		{
 			"title": "Unbelieveably Weak Life Form",
 			"volume": "1",
@@ -1115,6 +1115,26 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/oeAqoty/"
 			},
 			"last_updated": "1626817134"
+		},
+		"107":
+		{
+			"title": "Stop Them From Shaking",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/qIfomTg/"
+			},
+			"last_updated": "1626906715"
+		},
+		"108":
+		{
+			"title": "Come Running",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/U2IqbCC/"
+			},
+			"last_updated": "1626985836"
 		}
 
 	}
