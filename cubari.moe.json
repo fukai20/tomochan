@@ -1215,6 +1215,26 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/pe87bTg/"
 			},
 			"last_updated": "1627588902"
+		},
+		"117":
+		{
+			"title": "The Treasure Underneath",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/niUBPRq/"
+			},
+			"last_updated": "1627765979"
+		},
+		"118":
+		{
+			"title": "It Can't Be",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/sYMtVTx/"
+			},
+			"last_updated": "1627854833"
 		}
 	}
 }
