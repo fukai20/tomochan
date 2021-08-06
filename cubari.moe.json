@@ -1086,6 +1086,16 @@
 			},
 			"last_updated": "1626555247"
 		},
+		"103.5":
+		{
+			"title": "No Mercy",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/CCIlSGl/"
+			},
+			"last_updated": "1628286584"
+		},
 		"104":
 		{
 			"title": "At The Starting Line",
@@ -1265,6 +1275,16 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/Eh70qfY/"
 			},
 			"last_updated": "1628109750"
+		},
+		"122":
+		{
+			"title": "No Mercy",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/AtSUtai/"
+			},
+			"last_updated": "1628194184"
 		}
 	}
 }
