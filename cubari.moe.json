@@ -1295,6 +1295,17 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/AtSUtai/"
 			},
 			"last_updated": "1628194184"
+		},
+		"123":
+		{
+			"title": "You've Trained Even Those Muscles",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/wozLful/"
+			},
+			"last_updated": "1628456651"
 		}
+
 	}
 }
