@@ -1345,7 +1345,18 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/g6riukR/"
 			},
 			"last_updated": "1630260909"
+		},
+		"127":
+		{
+			"title": "Jun's Boot Camp",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/FTkPZRZ/"
+			},
+			"last_updated": "1630359937"
 		}
+
 
 	}
 }
