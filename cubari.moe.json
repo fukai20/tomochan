@@ -1495,8 +1495,16 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/bLPsMeC/"
 			},
 			"last_updated": "1631564607"
+		},
+		"142":
+		{
+			"title": "I'm Telling You, It's Fine",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/O9M0kAN/"
+			},
+			"last_updated": "1631658373"
 		}
-
-
 	}
 }
