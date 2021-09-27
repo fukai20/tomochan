@@ -1625,6 +1625,16 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/QDXGijM/"
 			},
 			"last_updated": "1632684572"
+		},
+		"155":
+		{
+			"title": "Collector's Edition",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/tZhDPSJ/"
+			},
+			"last_updated": "1632775137"
 		}
 	}
 }
