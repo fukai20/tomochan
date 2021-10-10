@@ -236,16 +236,6 @@
 			},
 			"last_updated": "1619124599"
 		},
-		"22.5":
-		{
-			"title": "Berserk",
-			"volume": "1",
-			"groups":
-			{
-				"why'd the last dude stop": "/proxy/api/imgur/chapter/bKHikfB/"
-			},
-			"last_updated": "1620950421"
-		},
 		"23":
 		{
 			"title": "Not even as a joke",
@@ -275,6 +265,16 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/Nf83fdq/"
 			},
 			"last_updated": "1619383907"
+		},
+		"25.5":
+		{
+			"title": "Berserk",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/bKHikfB/"
+			},
+			"last_updated": "1620950421"
 		},
 		"26":
 		{
