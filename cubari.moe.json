@@ -1985,7 +1985,28 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/VlQYFon/"
 			},
 			"last_updated": "1635805767"
+		},
+		"189":
+		{
+			"title": "Tomo-Chan's An Instinctive Type",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/MalGrBm/"
+			},
+			"last_updated": "1635885336"
+		},
+		"190":
+		{
+			"title": "Can Tell From The Cheek",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/HYaFdoq/"
+			},
+			"last_updated": "1635972065"
 		}
+
 
 	}
 }
