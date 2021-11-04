@@ -2005,8 +2005,16 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/HYaFdoq/"
 			},
 			"last_updated": "1635972065"
+		},
+		"191":
+		{
+			"title": "Researching The Cause",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/FVOZtPE/"
+			},
+			"last_updated": "1636060564"
 		}
-
-
 	}
 }
