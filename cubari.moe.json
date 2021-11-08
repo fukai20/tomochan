@@ -2032,7 +2032,7 @@
 			"volume": "1",
 			"groups":
 			{
-				"why'd the last dude stop": "/proxy/api/imgur/chapter/zDS7eIX/"
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/8BptHwm/"
 			},
 			"last_updated": "1636231607"
 		},
@@ -2045,6 +2045,16 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/YWiTgRa/"
 			},
 			"last_updated": "1636322261"
+		},
+		"195":
+		{
+			"title": "Never Thought Of It That Way",
+			"volume": "1",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/hOG15Yb/"
+			},
+			"last_updated": "1636409549"
 		}
 	}
 }
