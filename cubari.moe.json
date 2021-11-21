@@ -2168,13 +2168,23 @@
 		},
 		"207":
 		{
-			"title": "Same Level",
+			"title": "One Meter Radius",
 			"volume": "2",
 			"groups":
 			{
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/gVxGNm9/"
 			},
 			"last_updated": "1637442965"
+		},
+		"208":
+		{
+			"title": "I Won't End Up Like That",
+			"volume": "2",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/oxBsWE4/"
+			},
+			"last_updated": "1637525546"
 		}
 	}
 }
