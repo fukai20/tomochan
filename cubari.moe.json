@@ -2295,6 +2295,16 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/oB0npsz/"
 			},
 			"last_updated": "1638485390"
+		},
+		"219":
+		{
+			"title": "Back To Basics",
+			"volume": "2",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/rubTIjQ/"
+			},
+			"last_updated": "rubTIjQ"
 		}
 	}
 }
