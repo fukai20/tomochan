@@ -2345,6 +2345,26 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/cCNwVoP/"
 			},
 			"last_updated": "1638913888"
-		}
+		},
+		"224":
+		{
+			"title": "Juvenile Attackers",
+			"volume": "2",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/yZIGT5Q/"
+			},
+			"last_updated": "1638997691"
+		},
+		"225":
+		{
+			"title": "Face The Might Of A Woman",
+			"volume": "2",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/2d9npH6/"
+			},
+			"last_updated": "1639088003"
+		}		
 	}
 }
