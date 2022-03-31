@@ -2485,6 +2485,26 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/dKoLgZR/"
 			},
 			"last_updated": "1640122251"
+		},
+"236.6":
+		{
+			"title": "Volume 2 Extras",
+			"volume": "2",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/zqSWlgu/"
+			},
+			"last_updated": "1648733951"
+		},
+"237":
+		{
+			"title": "So As I Wasn't Saying",
+			"volume": "2",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/GDuN4ec/"
+			},
+			"last_updated": "1648733958"
 		}
 	}
 }
