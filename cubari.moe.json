@@ -3035,6 +3035,28 @@
 				"why'd the last dude stop": "/proxy/api/imgur/chapter/Eb50bt8/"
 			},
 			"last_updated": "1672264800"
+		},
+"290":
+		{
+			"title": "Broke Down",
+			"volume": "3",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/olam0xR/"
+			},
+			"last_updated": "1673388000"
 		}
+,
+"291":
+		{
+			"title": "Not a Laughing Matter",
+			"volume": "3",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/9UgWzlc/"
+			},
+			"last_updated": "1673388000"
+		}
+
 	}
 }
