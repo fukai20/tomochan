@@ -3299,15 +3299,25 @@
 			"last_updated": "1676930400"
 		},
 "316":
-        {
-            "title": "As Expected of My Best Friend",
-            "volume": "3",
-            "groups":
-            {
-                "why'd the last dude stop": "/proxy/api/imgur/chapter/lks27Mm/"
-            },
-            "last_updated": "1677016800"
-        }
+        	{
+            		"title": "As Expected of My Best Friend",
+            		"volume": "3",
+            		"groups":
+            		{
+                		"why'd the last dude stop": "/proxy/api/imgur/chapter/lks27Mm/"
+            		},
+            		"last_updated": "1677016800"
+        	},
+"317":
+		{
+			"title": "Some People Just Go Too Far",
+			"volume": "3",
+			"groups":
+			{
+				"why'd the last dude stop": "/proxy/api/imgur/chapter/L9mleh8/"
+			},
+			"last_updated": "1677103200"
+		}
 
 
 
